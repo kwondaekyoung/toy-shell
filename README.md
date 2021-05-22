@@ -70,6 +70,6 @@ gcc shell.c
 ```
 
 ```
-	info
+info
 ```
 
