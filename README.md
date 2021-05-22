@@ -65,7 +65,7 @@ cat          ->show all of code (c. py cpp)
 ```
 + [**info**]
 	+ first with student_ID.c
-	+ you have to compile student_ID.c with command
+	+ you have to compile student_ID.c with first command
 	+ and you can see student_ID with command 'info'
 	+ these method is same with using  make file...
 ```
